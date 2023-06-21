@@ -29,8 +29,8 @@
 - https://www.getui.com/cn/index.html
 
 ### 果派德州联系方式
-微信：xiaolidog
-Email：lion@cragon.cn
+- 微信：xiaolidog
+- Email：lion@cragon.cn
 
 ### License
 [MIT](/LICENSE)
